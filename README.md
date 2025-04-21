@@ -44,6 +44,7 @@ Starboard AI offers a rich set of tools for analyzing locations.  Key features i
 1. Clone the repository: `git clone https://github.com/harshkasat/starboard-ai.git`
 2. Navigate to the project directory: `cd starboard-ai`
 3. Install dependencies: `npm install` or `yarn install`
+4. Run vite application: `npm run dev`
 
 
 ## 7. Usage Examples
